@@ -1,0 +1,31 @@
+﻿var ols=[
+
+{caption:"١. مُقَدِّمَةُ المُصَنِّفِ",page:"2",url:"",level:"1",children:[]},
+{caption:"٢. الخَبَرُ",page:"3",url:"",level:"1",children:[]},
+{caption:"٣. الخَبَرُ المُتَوَاتِرُ",page:"3",url:"",level:"1",children:[]},
+{caption:"٤. الحَدِيثُ الغَرِيبُ",page:"3",url:"",level:"1",children:[]},
+{caption:"٥. خَبَرُ الْآحَادِ",page:"5",url:"",level:"1",children:[]},
+{caption:"٦. الفَرْدُ النَّسْبِيُّ",page:"7",url:"",level:"1",children:[]},
+{caption:"٧. المَقْبُولُ",page:"8",url:"",level:"1",children:[]},
+{caption:"٨. المَرْدُودُ",page:"9",url:"",level:"1",children:[]},
+{caption:"٩. المَرْدُودُ لِسَقْطٍ فِيهِ",page:"9",url:"",level:"1",children:[]},
+{caption:"١٠. المَرْدُودُ لِطَعْنٍ فِيهِ",page:"11",url:"",level:"1",children:[]},
+{caption:"١١. المُخَالَفَةُ",page:"12",url:"",level:"1",children:[]},
+{caption:"١٢. الجَهَالَةُ",page:"13",url:"",level:"1",children:[]},
+{caption:"١٣. البِدْعَةُ",page:"14",url:"",level:"1",children:[]},
+{caption:"١٤. سُوءُ الحِفْظِ",page:"15",url:"",level:"1",children:[]},
+{caption:"١٥. الإِسْنَادُ",page:"16",url:"",level:"1",children:[]},
+{caption:"١٦. المُسْنَدُ",page:"17",url:"",level:"1",children:[]},
+{caption:"١٧. صِيَغُ الأَدَاءِ",page:"21",url:"",level:"1",children:[]},
+{caption:"١٨. اتَّفَاقُ أَسْمَاءِ الرُّوَاةِ",page:"23",url:"",level:"1",children:[]},
+{caption:"١٩. خَاتِمَةٌ",page:"24",url:"",level:"1",children:[]},
+{caption:"٢٠. مَعْرِفَةُ طَبَقَاتِ الرُّوَاةِ",page:"24",url:"",level:"1",children:[]},
+{caption:"٢١. مَرَاتِبُ الجَرْحِ وَالتَّعْدِيلِ",page:"24",url:"",level:"1",children:[]},
+{caption:"٢٢. مَعْرِفَةُ كُنَى الْمُسَمَّيْنَ",page:"26",url:"",level:"1",children:[]},
+{caption:"٢٣. مَعْرِفَةُ الأَسْمَاءِ المُجَرَّدَةِ وَالْمُفْرَدَةِ",page:"27",url:"",level:"1",children:[]},
+{caption:"٢٤. مَعْرِفَةُ المَوَالِي",page:"28",url:"",level:"1",children:[]},
+{caption:"٢٥. مَعْرِفَةُ الْإِخْوَةِ وَالْأَخَوَاتِ",page:"28",url:"",level:"1",children:[]},
+{caption:"٢٦. مَعْرِفَةُ آدَابِ الشَّيْخِ وَالطَّالِبِ",page:"29",url:"",level:"1",children:[]},
+{caption:"٢٧. مَعْرِفَةُ سَبَبِ الحَدِيثِ",page:"30",url:"",level:"1",children:[]}
+
+];
